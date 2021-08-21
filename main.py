@@ -1,3 +1,4 @@
-print("abubakar")
+import pandas as pd
 
-print("abubakar")
+df=pd.read_csv('../PakWheelsScraper/Pakwheel.csv')
+df
