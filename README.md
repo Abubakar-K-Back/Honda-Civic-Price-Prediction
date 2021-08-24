@@ -1,4 +1,4 @@
-#Car Price Prediction
+# Car Price Prediction
 In this project scrape cars data from Pakwheels.com using selenium scraping
 Total rows in dataset were 4600
 Preprocessed using Pandas and removed the irrelevent data from the csv
